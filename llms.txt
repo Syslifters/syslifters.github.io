@@ -1,0 +1,49 @@
+# Syslifters Docs
+
+Dies ist die offizielle Dokumentation der Pentesting-Services von Syslifters.
+
+## CVs
+
+- [Aron Molnar](https://docs.syslifters.com/aron/index.md)
+- [Christoph Mahrl](https://docs.syslifters.com/christoph/index.md)
+- [Michael Wedl](https://docs.syslifters.com/michael/index.md)
+- [Patrick Pirker](https://docs.syslifters.com/patrick/index.md)
+- [Matthäus Förster](https://docs.syslifters.com/matthaeus/index.md)
+
+## Pentesting Process
+
+- [Vor dem Pentest](https://docs.syslifters.com/vor-pentests/index.md)
+- [Während des Pentests](https://docs.syslifters.com/waehrend-pentests/index.md)
+- [Nach dem Pentest](https://docs.syslifters.com/nach-pentests/index.md)
+- [Infos für den Einkauf](https://docs.syslifters.com/fuer-den-einkauf/index.md)
+
+## Toolset
+
+- [Pentesting Toolset](https://docs.syslifters.com/pentesting-toolset/index.md)
+- [Internes Toolset](https://docs.syslifters.com/internal-toolset/index.md)
+
+## Demo Reports
+
+- [Demo-Berichte](https://docs.syslifters.com/pentesting-demo-reports/index.md)
+
+## Contact us
+
+- [Kontakt](https://docs.syslifters.com/contact-us/index.md)
+
+## Vulnerability Disclosure
+
+- [Disclosure Policy](https://docs.syslifters.com/vulnerability-disclosure/index.md)
+- [Advisories](https://docs.syslifters.com/advisories/index.md)
+- [Microsoft teams status disclosure](https://docs.syslifters.com/microsoft-teams-status-disclosure/index.md)
+
+## Corporate Identity
+
+- [Corporate Identity](https://docs.syslifters.com/corporate-identity/index.md)
+
+## Legal
+
+- [Unsere AGB](https://docs.syslifters.com/agb/index.md)
+- [Servicebeschreibung](https://docs.syslifters.com/servicebeschreibung/index.md)
+- [Vesting-Vertrag](https://docs.syslifters.com/vesting-vertrag/index.md)
+- [Datenschutzerklärung](https://docs.syslifters.com/datenschutz/index.md)
+

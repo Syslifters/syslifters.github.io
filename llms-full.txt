@@ -1,0 +1,984 @@
+# Syslifters Docs
+
+Dies ist die offizielle Dokumentation der Pentesting-Services von Syslifters.
+
+# CVs
+
+# Hallo! Ich bin Aron.
+
+## Kontakt
+
++43 660 923 40 60 (auch über Signal Messenger)\
+[aron@syslifters.com](mailto:aron@syslifters.com) ( S/MIME [cer](../assets/aron.cer)/[pem](../assets/aron.pem))
+
+Sicherheitsüberprüft auf Klassifizierungsstufe "geheim" gemäß §§ 55 ff SPG
+
+## Berufserfahrung
+
+- **seit 04/2022** Mitgründer und Geschäftsführer der Syslifters GmbH
+- **seit 2023** Lektor an der Fachhochschule St. Pölten
+  - IT Security
+- **2022-2025** Lektor an der Fachhochschule Wien
+  - Cybersecurity im Studiengang Journalismus und Medienmanagement
+- **2018-2022** Head of Professional Services bei A1 Digital International GmbH
+  - Teamlead Pentesting
+  - Teamlead Offensity Security Monitoring
+- **2016-2018** IT Security-Experte bei A1 Telekom Austria AG
+  - Security Intelligence Center
+- **2016** Bundesministerium für Inneres, Cyber Security Center
+- **2014-2016** Mitbegründer Café "[bröselei](https://www.broeselei.at/)", Wien
+- **2013-2014** Pentester bei XSEC infosec GmbH
+- **2010-2011** Voluntär bei CONCORDIA Sozialprojekte
+  - Einsätze in Rumänien und Moldawien
+  - Straßenkinderprojekte
+  - "Stadt der Kinder", Moldawien
+  - Koordination Wiederaufbau eines Dorfes nach Hochwasser
+- **2009-2010** Österreichisches Bundesheer
+  - Einjährig Freiwillig
+  - ABC-Abwehr
+
+## Ausbildung & Zertifikate
+
+- Fachhochschule St. Pölten
+  - Information Security (DI)
+  - IT-Security (BSc, Schwerpunkt Malwareanalyse & IT-Forensik)
+- Check Point Certified Security Administrator
+- Cisco Certified Network Associate (CCNA), gültig bis 08/2015
+- ITIL v3 Foundation Certificate
+- AccessData Certified Examiner for FTK Toolkit, gültig bis 04/2013
+
+## Sonstiges
+
+- Sieger der European Cyber Security Challenge 2015
+- Dreimalige Teilname (2013-2015) am Finale der Cyber Security Challenge
+- Erasmus Intensive Programme Belgium for Steganography and Digital Investigations 2012, XIOS-Universität Hasselt
+
+# Hallo! Ich bin Christoph.
+
+## Kontakt
+
+[christoph@syslifters.com](mailto:christoph@syslifters.com) ( S/MIME [cer](../assets/christoph.cer)/[pem](../assets/christoph.pem))\
+[LinkedIn](https://www.linkedin.com/in/christoph-mahrl-268b7a1b6/)
+
+Sicherheitsüberprüft auf Klassifizierungsstufe "geheim" gemäß §§ 55 ff SPG
+
+## Berufserfahrung
+
+- **seit 04/2022** Mitgründer und Geschäftsführer der Syslifters GmbH
+- **2020 - 2022** Penetration Tester bei A1 Digital International GmbH
+  - Red Teaming
+  - Web- & Infrastruktur Pentesting
+- **2019 - 2020** Penetration Tester bei it.sec GmbH
+  - Web- & Infrastruktur Pentesting
+- **2018 - 2019** Information Security Consultant bei ACP IT Solutions GmbH
+  - Security Operation Center (SOC)
+  - Awareness Trainings
+- **2015 - 2017** Security Consultant bei SBA Research gGmbH
+
+## Ausbildung & Zertifikate
+
+- Fachhochschule St. Pölten
+  - Information Security (DI)
+  - IT-Security (BSc, Schwerpunkt Malwareanalyse & IT-Forensik)
+- HTBLuVA St. Pölten EDV und Organisation
+  - Informatik
+  - Betriebswirtschaft
+- Offensive Security Certified Professional (OSCP)
+- Cisco Certified Network Associate Routing and Switching (CCNA), gültig bis 2016
+- ITIL v3 Foundation Certificate
+- Oracle Certified Professional Java SE Programmer
+- B2 Business Englisch Certificates (BEC) Vantage
+- XINTRA Attacking and Defending Azure & M365
+
+## Sonstiges
+
+- Pentester von IT-Systemen der Deutschen Bundesbank im Rahmen des deutschen Aufgabenbereichs innerhalb der Four Central Banks und angeschlossene Systeme wie TARGET2-Securities der Europäischen Zentralbank (EZB). ([Quelle](https://www.b4bschwaben.de/b4b-nachrichten/ulm-neu-ulm_artikel,-itspezialist-aus-ulm-hackt-deutsche-zentralbank-_arid,257798.html))
+  - finanztechnische Dienste, Prozesse und Abläufe
+  - komplexe Angriffsszenarien auf Basis realistischer Bedrohungsanalysen
+  - Austausch mit Cyber-Verteidigungsteams
+- Ehrenamtlicher Rettungssanitäter beim Österreichischen Roten Kreuz
+
+# Hallo! Ich bin Michael.
+
+## Kontakt
+
+[michael@syslifters.com](mailto:michael@syslifters.com) ( S/MIME [cer](../assets/michael.cer)/[pem](../assets/michael.pem))\
+[LinkedIn](https://www.linkedin.com/in/michael-wedl-a39a39214/)
+
+Sicherheitsüberprüft auf Klassifizierungsstufe "geheim" gemäß §§ 55 ff SPG
+
+## Berufserfahrung
+
+- **seit 04/2022** Mitgründer der Syslifters GmbH
+- **2019-2022** Security-Software-Entwickler bei A1 Digital International GmbH
+  - Softwareentwicklung Vulnerability-Scanner Offensity
+  - Penetration Testing
+- **2018-2019** Präsenzdiener beim Österreichischen Bundesheer
+  - Funktion Cyber-Soldat
+- **2017** Softwareentwickler bei MBIT Solutions GmbH
+  - Ferialpraktikum
+- **2015 und 2016** Ferialpraktikant bei Wirtschaftskammer NÖ
+
+## Ausbildung & Zertifikate
+
+- Fachhochschule St. Pölten
+  - Information Security (DI)
+  - IT-Security (BSc)
+- HTBL Krems
+  - Informationstechnologie
+- OSCP – Offensive Security Certified Professional
+- ITIL v3 Foundation Certificate
+
+## Sonstiges
+
+- Mehrmaliger Sieger der Austrian Cyber Security Challenge (2018, 2020, 2022)
+- Platz 3 der European Cyber Security Challenge 2019
+- Platz 3 des Catalysts Coding Contest 2018
+
+# Hallo! Ich bin Patrick.
+
+## Kontakt
+
+[patrick@syslifters.com](mailto:patrick@syslifters.com) ( S/MIME [cer](../assets/patrick.cer)/[pem](../assets/patrick.pem))\
+[LinkedIn](https://www.linkedin.com/in/patrick-pirker-203b92121/)
+
+Sicherheitsüberprüft auf Klassifizierungsstufe "geheim" gemäß §§ 55 ff SPG
+
+## Berufserfahrung
+
+- **seit 04/2022** Mitgründer und Geschäftsführer der Syslifters GmbH
+- **seit 2023** Lektor an der Fachhochschule St. Pölten
+  - IT Security
+- **seit 2022** Lektor an der Fachhochschule Technikum Wien
+  - IT Security
+- **2018-2022** Security-Consultant bei A1 Digital International GmbH
+  - Softwareentwicklung und Betrieb Vulnerability-Scanner Offensity
+  - Penetration Testing
+- **2016-2018** Penetration Tester bei Greentube
+  - Penetration Testing
+  - Interne IT Security Audits
+- **2015-2016** Präsenzdiener beim Österreichischen Bundesheer
+  - Militärisches Computer Emergency Readiness Team (MilCERT)
+
+## Ausbildung & Zertifikate
+
+- Fachhochschule St. Pölten
+  - Information Security (DI)
+  - IT-Security (BSc)
+- HTBL Krems
+  - Informationstechnologie
+- OSCP – Offensive Security Certified Professional
+- ITIL v3 Foundation Certificate
+
+## Sonstiges
+
+- Ehem. Team-Kapitän des Teams ÖSTERREICH bei der European Cyber Security Challenge (ECSC)
+- Sieger der European Cyber Security Challenge 2014 und 2015
+- Mehrmaliger Sieger der Austrian Cyber Security Challenge
+- Platz 3 der European Cyber Security Challenge 2019
+
+# Hallo! Ich bin Matthäus.
+
+## Kontakt
+
+[matthaeus@syslifters.com](mailto:matthaeus@syslifters.com) ( S/MIME [cer](../assets/matthaeus.cer)/[pem](../assets/matthaeus.pem))\
+[LinkedIn](https://www.linkedin.com/in/matth%C3%A4us-f%C3%B6rster-34002726a)
+
+Sicherheitsüberprüft auf Klassifizierungsstufe "geheim" gemäß §§ 55 ff SPG
+
+## Berufserfahrung
+
+- **seit 09/2024** Pentester bei Syslifters GmbH
+- **2018-2024** First & Second Level Support und System Engineer bei Würth Handelsges.m.b.H.
+  - Active Directory Management: Benutzer- und Gruppenverwaltung, GPOs, Rechte- und Rollenmanagement
+  - Virtualisierung: Betreuung und Optimierung der Virtualisierungsumgebung
+  - Patch-Management: Planung, Testing und Deployment von Sicherheitsupdates
+  - Backup & Recovery: Verwaltung und Automatisierung von Datensicherungen
+  - Troubleshooting & Support: Analyse und Behebung von Hardware-/Software-Problemen für Endnutzer und Server
+  - IT-Security & Compliance: Umsetzung von Security Best Practices und Härtung von Systemen
+  - Dokumentation & Prozessoptimierung: Erstellung von IT-Dokumentationen und Verbesserung interner Abläufe
+
+## Ausbildung & Zertifikate
+
+- Fachhochschule St. Pölten
+  - IT-Security (BSc)
+- HTBLuVA St. Pölten Informatik
+  - Informatik
+  - Betriebswirtschaft
+- B2 Business Englisch Certificates (BEC) Vantage
+- XINTRA Attacking and Defending Azure & M365
+
+## Sonstiges
+
+- Obmann der Trachtenmusikkapelle Marktgemeinde Kirchstetten
+- Ehrenamtlicher Rettungssanitäter beim Österreichischen Roten Kreuz
+# Pentesting Process
+
+# Vor unseren Pentests
+
+- Ihr stellt uns in einem kurzen Gespräch vor, welche Systeme ihr zu welchem Zweck testen lassen wollt.
+- Wir schätzen den Aufwand in Personentagen und legen euch ein Angebot.
+- Der Zeitraum unserer Tests ist auf diese Anzahl an Personentagen limitiert. Wir können nicht mit Sicherheit garantieren, sämtliche vorhandene Sicherheitslücken auch tatsächlich aufzudecken. Sollten echte Angreifer mehr Zeit investieren, könnten sie Schwachstellen finden, die wir eventuell übersehen haben.
+- Wir verrechnen nur tatsächlich erbrachte Leistungen. Wenn sich herausstellt, dass wir weniger Zeit benötigen, verrechnen wir entsprechend weniger.
+- Unsere Vorlaufzeit beträgt in der Regel etwa zwei Monate. Bei dringenden Aufträgen tun wir unser Bestes, um einen frühen Termin zu finden.
+- Wir brauchen bitte spätestens drei Werktage vor dem vereinbarten Test die Liste der Zielsysteme (“Scope”). Das können IP-Adressen, Domains, Subdomains, oä sein.
+- Mit der Übermittlung geht implizit die Gewährung einer “Permission to Attack” (PtA), einer Angriffserlaubnis einher. Ohne PtA könnten bestimmte Angriffe illegal sein. Wir bitten euch sicherzustellen, dass ihr für die Zielsysteme auch tatsächlich ein PtA erteilen dürft (z. B. ihr der Besitzer der Systeme seid).
+- Bitte informiert all eure Mitarbeiter und Kollegen, die in den Auftrag eingebunden werden sollen, frühzeitig über den Penetration-Test. Besonders interessiert an einer Einbindung ist in der Regel die Arbeitnehmervertretung (Betriebsrat).
+- Wir werden keine Maßnahmen durchführen, die absichtlich die Verfügbarkeit eurer Systeme gefährden.
+- Es kann trotzdem passieren, dass Systeme nicht mehr erreichbar werden. Wir sind während der Tests jederzeit für euch erreichbar, sollten euch Probleme auffallen.
+- Bitte sorgt dafür, dass die zu testenden Systeme jederzeit wiederhergestellt werden können (z. B. über Backups), sollte doch einmal etwas passieren.
+
+# Während unserer Pentests
+
+- Unser Ziel ist das Finden von technischen Risiken und Schwachstellen der Zielsysteme.
+- Wenn ihr während des Testzeitraums Angriffe beobachtet, könnt ihr anhand unserer IP-Adresse prüfen, ob diese Angriffe von uns stammen. Unsere Quell-IP-Adresse ist `91.99.251.12`.
+- Um unseren Zeitrahmen so effizient wie möglich nutzen zu können, empfehlen wir einen regelmäßigen informellen Austausch während der Tests und eine partnerschaftliche Zusammenarbeit (etwa Zurverfügungstellung von Testbenutzern und Zugängen, oder - auf unseren expliziten Wunsch - die Deaktivierung bestimmter Sicherheitsmaßnahmen).
+- Schwerwiegende Schwachstellen werden wir euch so bald wie möglich und während des Testzeitraums mündlich berichten.
+- Wir bitten euch, Schwachstellen nicht während des Test-Zeitraums ohne Rücksprache mit uns zu beheben. Dies erschwert uns das Testen und senkt die Effizienz und Qualität unserer Tests.
+- Wenn ihr direkt bei uns gekauft habt, **testen wir behobene Schwachstellen innerhalb von acht Wochen einmalig kostenlos nach**. Damit könnt später ihr auf Nummer Sicher gehen, dass die Behebungen auch wirksam sind.
+- An uns überlassene interne Informationen und unsere Erkenntnisse aus den Tests sind vertraulich und werden selbstverständlich nicht weitergegeben.
+
+# Nach unseren Pentests
+
+- Wir schicken euch so bald wie möglich (in der Regel wenige Tage) nach Abschluss der Tests den Bericht im PDF-Format (verschlüsselt, Passwort über zweiten Kanal). In Einzelfällen kann es auch etwas länger dauern, maximal aber vier Wochen.
+- Es ist uns sehr wichtig, dass ihr mit unserem Bericht auch arbeitet und Verbesserungsmaßnahmen daraus ableitet. **Deshalb testen wir für euch behobene Schwachstellen kostenlos nach**, wenn sie innerhalb von acht Wochen behoben werden (bei Einkauf direkt bei uns, nicht über Partner)! Bitte gebt uns Bescheid, wenn alles behoben ist, damit wir alles gesammelt nachprüfen können.
+- Es ist sinnvoll, unsere Zugänge und Benutzerkonten bis zur Nachprüfung aktiv zu lassen.
+- Sobald sie aber nicht mehr benötigt werden, bitte alles deprovisionieren, was nicht mehr gebraucht wird.
+
+[Demo-Bericht Web](../assets/Demo-Report_Syslifters_Web_v1.0.pdf)
+
+[Demo-Bericht Active Directory](../assets/Demo-Report_Syslifters_AD_v1.0.pdf)
+
+## Das könnte für den Einkauf wichtig sein
+
+- Zusätzlich zu den Kosten in unseren Angebot könnten noch Barauslagen, Spesen, Reisekosten, etc. anfallen.
+- Wir verrechnen nur tatsächlich erbrachte Leistungen. Wenn sich herausstellt, dass wir weniger Zeit benötigen, verrechnen wir entsprechend weniger Personentage.
+- Sobald wir einen Durchführungszeitraum vereinbart haben, sichern wir euch diesen Zeitraum zu und halten unsere Kapazitäten für euch frei. Deshalb behalten wir uns vor, kurzfristig (weniger als zwei Wochen vor Durchführung) abgesagte Aufträge pauschal mit 80% des veranschlagten Aufwands zu verrechnen.
+
+Weitere Infos findet ihr in [unseren AGB](../agb/).
+# Toolset
+
+# Pentesting Toolset
+
+Hier eine Liste der Tools, die wir für die Durchführung von Pentests empfehlen. Ihr wisst oder wollt etwas anderes wissen? [Frag uns](../contact-us/)!
+
+## Hilfstools
+
+| Für               | Verwenden wir                                                       |
+| ----------------- | ------------------------------------------------------------------- |
+| Pentest Reporting | [SysReptor](https://docs.sysreptor.com)                             |
+| Screenshots       | [Flameshot](https://flameshot.org/)                                 |
+| Note Taking       | [SysReptor](https://docs.sysreptor.com/)                            |
+| Diagrams          | [Excalidraw](https://excalidraw.com/) (also available in SysReptor) |
+
+## Pentests im Allgemeinen
+
+| Für               | Verwenden wir                                                                                      |
+| ----------------- | -------------------------------------------------------------------------------------------------- |
+| Encoding/Decoding | [CyberChef](https://github.com/gchq/CyberChef) (also available in SysReptor)                       |
+| Data Leak Lookup  | [SysLeaks](https://sysleaks.com/), [Kaduu](https://kaduu.io/), [HIBP](https://haveibeenpwned.com/) |
+| PW Cracking       | [hashcat](https://hashcat.net/hashcat/), [Hashtopolis](https://docs.hashtopolis.org/)              |
+| PW Lists          | [SysLeaks](https://sysleaks.com/), [Weakpass](https://weakpass.com/)                               |
+| Open TCP Ports    | [portquiz](http://portquiz.net/)                                                                   |
+
+## Web Tests
+
+| Für                               | Verwenden wir                                                                                              |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Web App Testing                   | [Burp Professional](https://portswigger.net/burp)                                                          |
+| Directory and File Search         | [dirsearch](https://github.com/maurosoria/dirsearch), [gobuster](https://github.com/OJ/gobuster)           |
+| Web Spider and Endpoint Detection | [katana](https://github.com/projectdiscovery/katana)                                                       |
+| Web Vuln Scanner                  | [Burp Professional](https://portswigger.net/burp), [nuclei](https://github.com/projectdiscovery/nuclei)    |
+| SSL Inspection                    | [sslyze](https://github.com/nabla-c0d3/sslyze), [tls-scanner](https://github.com/tls-attacker/tls-scanner) |
+| SQLi Exploitation                 | [sqlmap](https://sqlmap.org/)                                                                              |
+| Cookie Cracking                   | [cookiemonster](https://github.com/iangcarroll/cookiemonster)                                              |
+| JWT Tampering                     | [jwt_tool](https://github.com/ticarpi/jwt_tool)                                                            |
+| Secret Discovery                  | [TruffleHog](https://github.com/trufflesecurity/trufflehog)                                                |
+
+## Burp Plugins
+
+| Für                       | Verwenden wir                                                                                                                                                             |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Authorization Testing     | [Auth Analyzer](https://portswigger.net/bappstore/7db49799266c4f85866f54d9eab82c89), [Autorize](https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f)       |
+| JWT Testing               | [JSON Web Tokens](https://portswigger.net/bappstore/f923cbf91698420890354c1d8958fee6), [JWT Editor](https://portswigger.net/bappstore/26aaa5ded2f74beea19e2ed8345a93dd)   |
+| SAML Testing              | [SAML Raider](https://portswigger.net/bappstore/c61cfa893bb14db4b01775554f7b802e)                                                                                         |
+| Endpoint Detection via JS | [JS Link Finder](https://portswigger.net/bappstore/0e61c786db0c4ac787a08c4516d52ccf)                                                                                      |
+| Additional Vuln Scans     | [Active Scan++](https://portswigger.net/bappstore/3123d5b5f25c4128894d97ea1acc4976), [Upload Scanner](https://portswigger.net/bappstore/b2244cbb6953442cb3c82fa0a0d908fa) |
+| HTTP Request Smuggling    | [HTTP Request Smuggler](https://portswigger.net/bappstore/aaaa60ef945341e8a450217a54a11646)                                                                               |
+| ViewState Editing         | [ViewState Editor](https://portswigger.net/bappstore/ba17d9fb487448b48368c22cb70048dc)                                                                                    |
+| Java Platform Scanner     | [J2EEScan](https://portswigger.net/bappstore/7ec6d429fed04cdcb6243d8ba7358880)                                                                                            |
+| Pingback Erkennung        | [Collaborator Everywhere](https://portswigger.net/bappstore/2495f6fb364d48c3b6c984e226c02968)                                                                             |
+| sqlmap Integration        | [SQLiPy Sqlmap Integration](https://portswigger.net/bappstore/f154175126a04bfe8edc6056f340f52e)                                                                           |
+| IP Restriction Bypass     | [IP Rotate](https://portswigger.net/bappstore/2eb2b1cb1cf34cc79cda36f0f9019874)                                                                                           |
+| WAF Bypass                | [nowafpls](https://github.com/assetnote/nowafpls)                                                                                                                         |
+
+## Active Directory & Windows Tests
+
+Einige der folgenden Tools stellen wir vorkompiliert auf [GitHub](https://github.com/Syslifters/offsec-tools) bereit.
+
+| Für                                  | Verwenden wir                                                                                                                                                                                                                                  |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AD Enumeration                       | [BloodHound](https://github.com/BloodHoundAD/BloodHound), [ADRecon](https://github.com/sense-of-security/ADRecon), NetExec                                                                                                                     |
+| AD CS Exploitation                   | [Certify](https://github.com/GhostPack/Certify), [Certipy](https://github.com/ly4k/Certipy)                                                                                                                                                    |
+| AD Queries                           | [PowerView](https://powersploit.readthedocs.io/en/latest/Recon/), [SeatBelt](https://github.com/GhostPack/Seatbelt)                                                                                                                            |
+| AD Analysis                          | [PingCastle](https://www.pingcastle.com/), [PurpleKnight](https://www.purple-knight.com/)                                                                                                                                                      |
+| DNS Dump                             | [adidnsdump](https://github.com/dirkjanm/adidnsdump)                                                                                                                                                                                           |
+| Windows Password Extraction          | [mimikatz](https://github.com//mimikatz), [lsassy](https://github.com/Hackndo/lsassy), pypykatz                                                                                                                                                |
+| Local Credential Extraction          | [LaZagne](https://github.com/AlessandroZ/LaZagne)                                                                                                                                                                                              |
+| Powershell Runspace                  | [Stracciatella](https://github.com/mgeeky/Stracciatella)                                                                                                                                                                                       |
+| MachineAccountQuota/DNS Exploitation | [Powermad](https://github.com/Kevin-Robertson/Powermad)                                                                                                                                                                                        |
+| Kerberos Interactions                | [Rubeus](https://github.com/GhostPack/Rubeus), [Kerbrute](https://github.com/ropnop/kerbrute)                                                                                                                                                  |
+| Network Protocol Attacks             | [Impacket](https://github.com/SecureAuthCorp/impacket), [Responder](https://github.com/SpiderLabs/Responder), [Inveigh](https://github.com/Kevin-Robertson/Inveigh)                                                                            |
+| Local Privesc                        | [SharpUp](https://github.com/GhostPack/SharpUp), [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS), [LinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS), [Crassus](https://github.com/vullabs/Crassus) |
+| Local Process Monitoring             | [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)                                                                                                                                                             |
+| SCCM Credential Gathering            | [SharpSCCM](https://github.com/Mayyhem/SharpSCCM)                                                                                                                                                                                              |
+| RDP MitM                             | [pyrdp](https://github.com/GoSecure/pyrdp)                                                                                                                                                                                                     |
+| Shadow Credential Exploitation       | [Whisker](https://github.com/eladshamir/Whisker)                                                                                                                                                                                               |
+| WSUS Abuse                           | [SharpWSUS](https://github.com/nettitude/SharpWSUS)                                                                                                                                                                                            |
+| Entra ID Authentications             | [ROADtools](https://github.com/dirkjanm/ROADtools)                                                                                                                                                                                             |
+| SMB Share Audit                      | [Snaffler](https://github.com/SnaffCon/Snaffler)                                                                                                                                                                                               |
+
+# Interne Tools, Dienste und Anbieter
+
+Hier eine Liste unserer internen Tools, die wir für den laufenden Betrieb unseres Unternehmens verwenden. Ihr möchtet etwas anderes wissen? [Frag uns](../contact-us/)!
+
+Umstellung auf europäische Lösungen
+
+Aufgrund internationaler Entwicklungen stellen wir unsere gesamte Infrastruktur auf europäische Lösungen und Open-Source-Alternativen um – für mehr digitale Souveränität. Bis Ende 2026 wollen wir die Kerninfrastruktur vollständig migriert haben (z. B. Authentik mit ID Austria, Nextcloud, OnlyOffice, Fedora/Debian, Stalwart Mail Server auf unserem Proxmox-Cluster). **Daher ist diese Tool-Liste derzeit nicht aktuell und wird in den kommenden Wochen und Monaten angepasst**.
+
+| Für                                            | Verwenden wir                                                                           |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Benutzer- und Berechtigungsverwaltung          | [Azure AD](https://azure.microsoft.com/de-de/services/active-directory/)                |
+| Data Leak Monitoring                           | [SysLeaks](https://sysleaks.com)                                                        |
+| E-Mail Provider                                | [Microsoft 365](https://www.microsoft.com/de-de/microsoft-365)                          |
+| S/MIME Provider                                | [Certum](https://www.certum.eu/en/smime-certificates/)                                  |
+| Cloud Datenspeicher                            | [OneDrive](https://www.microsoft.com/de-de/microsoft-365/onedrive/online-cloud-storage) |
+| Client-seitige Verschlüsselung für Cloud-Daten | [Cryptomator](https://cryptomator.org/)                                                 |
+| VPN-Client                                     | [Tailscale](https://tailscale.com/)                                                     |
+| VPN-Server                                     | [Headscale](https://github.com/juanfont/headscale)                                      |
+| Passwort Manager Client                        | [Bitwarden](https://bitwarden.com/)                                                     |
+| Passwort Manager Server                        | [Vaultwarden](https://github.com/dani-garcia/vaultwarden)                               |
+| Server Virtualisierung                         | [Proxmox](https://www.proxmox.com/)                                                     |
+| Angebots- und Rechnungserstellung              | [Microsoft Dynamics](https://dynamics.microsoft.com/)                                   |
+| Instant Messaging                              | [Signal Messenger](https://signal.org/)                                                 |
+| Video Conferencing                             | [Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software)  |
+| Microsoft Lizenzen und Support                 | [Microsoft Action Pack](https://partner.microsoft.com/de-de/membership/action-pack)     |
+# Demo Reports
+
+# Pentesting Demo-Berichte
+
+Made with\
+❤️\
+and
+# Contact us
+
+[team@syslifters.com](mailto:team@syslifters.com) ( S/MIME [cer](https://docs.syslifters.com/assets/team.cer)/[pem](https://docs.syslifters.com/assets/team.pem))
+
+syslifters.01
+
++43 660 923 40 60\
+[LinkedIn](https://www.linkedin.com/showcase/sysreptor/)\
+[GitHub](https://github.com/Syslifters)
+# Vulnerability Disclosure
+
+Du hast eine Schwachstelle in einem unserer Systeme gefunden?
+
+**Wir tauschen einen YubiKey für Schwachstellen.** (siehe unsere Disclosure Policy direkt unten)
+
+Wir sind dir sehr dankbar, wenn du sie uns verantwortungsbewusst meldest!
+
+Bitte melde Hinweise zu Schwachstellen an:
+
+syslifters.01
+
+[team@syslifters.com](mailto:team@syslifters.com) ( S/MIME [cer](https://docs.syslifters.com/assets/team.cer)/[pem](https://docs.syslifters.com/assets/team.pem))
+
+Herzlichen Dank!
+
+As a security company, we know that any system and infrastructure can be(come) vulnerable. We encourage everyone to report security vulnerabilities.
+
+## Safe Harbour
+
+We will not take any legal action against activities complying with this policy. If legal actions are initiated by third parties due to activities compliant with this policy, we will take actions to make it known to responsibles and/or legal authorities.
+
+## Our promise
+
+We will review and respond to your report promptly and conduct an open dialog with you. We will provide a timeline for when we expect the vulnerability to be fixed. As a mark of recognition, we reward you with an up-to-date [YubiKey](https://www.yubico.com/products/) for your personal use (max. one per person per year) for high or critical issues (following CVSSv3.1). We will give you credits for your findings and include you in our hall of fame if desired.
+
+## Your promise
+
+You promise to use discovered vulnerabilities for no other purpose than reporting them to us. Vulnerabilities are reported exclusively and privately, promptly after detection. You promise to not take actions with the intention to harm us, our customers, partners, or any other stakeholder.
+
+## Scope
+
+The scope of this vulnerability disclosure policy (VDP) includes:
+
+- \*.syslifters.com
+- \*.syslifters.at
+- \*.syslifter.com
+- \*.sysreptor.com
+- \*.sysraptor.com
+- \*.sysleaks.com
+
+The scope also includes the Pentest Reporting Software [SysReptor](https://github.com/syslifters/sysreptor/).\
+Note that it **does not** include our SysReptor Cloud service (at \*.sysre.pt).
+
+The following activities are prohibited:
+
+- Denial of service (incl resource-exhaustion, automated scanners with high loads, deleting data, fuzzing, etc)
+- Spamming
+- Social engineering (including phishing)
+- Physical access (incl entering or surveilling properties)
+- Attacking non-internet facing systems (internal networks, private IPs, workstations, etc)
+- Installing persistent backdoors
+
+Issues without direct security impact, lack of hardening, or defense-in-depth measures are out of the scope of this VDP. This includes (but is not limited to):
+
+- Presence/absence of DKIM/SPF/DMARC records
+- Missing http headers (such as CSP, Permissions-Policy, etc)
+- Clickjacking
+- Missing http cookie flags
+- Information disclosure of non-sensitive contents (like robots.txt, sitemap.xml, files, directories, etc)
+- Absence of best practices
+- Self-Attacks
+- CSRF with low or no impact
+- Open ports
+- Attacks requiring pre-conditions that would be security issues per se (e.g. usage of outdated browsers, vulnerable browser plugins, weak user passwords)
+- Lookalike domains
+- Homograph attacks
+- Broken links
+- Metadata in assets (like images, PDFs, etc)
+- Theoretical attacks with no realistic exploit scenario
+- Weak SSL/TLS settings
+- Software that is out of date without proven security impact
+- Missing multi-factor authentication
+- Recently patched vulnerabilities in third-party software within two weeks after publication
+
+## Thank You
+
+Thank's to all who report security vulnerabilities to us.
+
+You can use this document for anything
+
+This is the template of a vulnerability disclosure policy that you can use for your vulnerability disclosure program.
+
+The contents of the vulnerability disclosure policy are marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+This means you can use it for any purpose, also commercially, without attribution (even though we appreciated it).
+
+As a `[todo]` company, we know that any system and infrastructure can be(come) vulnerable. We encourage everyone to report security vulnerabilities.\
+This protects us, our customers, partners and stakeholders and makes the world a little more secure.
+
+## Safe Harbour
+
+We will not take any legal action against activities complying with this policy. If legal actions are initiated by third parties due to activities compliant with this policy, we will take actions to make it known to responsibles and/or legal authorities.
+
+## Our promise
+
+We will review and respond to your report promptly and conduct an open dialog with you. We will provide a timeline for when we expect the vulnerability to be fixed. As a mark of recognition, we reward you with an up-to-date [YubiKey](https://www.yubico.com/products/) for your personal use (max. one per person per year) for high or critical issues (following CVSSv3.1). We will give you credits for your findings and include you in our hall of fame if desired.
+
+## Your promise
+
+You promise to use discovered vulnerabilities for no other purpose than reporting them to us. Vulnerabilities are reported exclusively and privately, promptly after detection. You promise to not take actions with the intention to harm us, our customers, partners, or any other stakeholder.
+
+## Scope
+
+The scope of this vulnerability disclosure policy (VDP) includes:
+
+- `[todo]`
+
+The following activities are prohibited:
+
+- Denial of service (incl resource-exhaustion, automated scanners with high loads, deleting data, fuzzing, etc)
+- Spamming
+- Social engineering (including phishing)
+- Physical access (incl entering or surveilling properties)
+- Attacking non-internet facing systems (internal networks, private IPs, workstations, etc)
+- Installing persistent backdoors
+
+Issues without direct security impact, lack of hardening, or defense-in-depth measures are out of the scope of this VDP. This includes (but is not limited to):
+
+- Presence/absence of DKIM/SPF/DMARC records
+- Missing http headers (such as CSP, Permissions-Policy, etc)
+- Clickjacking
+- Missing http cookie flags
+- Information disclosure of non-sensitive contents (like robots.txt, sitemap.xml, files, directories, etc)
+- Absence of best practices
+- Self-Attacks
+- CSRF with low or no impact
+- Open ports
+- Attacks requiring pre-conditions that would be security issues per se (e.g. usage of outdated browsers, vulnerable browser plugins, weak user passwords)
+- Lookalike domains
+- Homograph attacks
+- Broken links
+- Metadata in assets (like images, PDFs, etc)
+- Theoretical attacks with no realistic exploit scenario
+- Weak SSL/TLS settings
+- Software that is out of date without proven security impact
+- Missing multi-factor authentication
+- Recently patched vulnerabilities in third-party software within two weeks after publication
+
+## Contact
+
+Please contact us via `[todo]`.
+
+## Thank You
+
+Thank's to all who report security vulnerabilities to us.
+
+# Advisories
+
+## Jedox 2023
+
+- **Hersteller:** [Jedox GmbH](https://www.jedox.com/de/)
+
+- **Produkt:** Jedox / Jedox Cloud
+
+- **Version:** Jedox 2020.2.5+
+
+- **CVE Nummer:** CVE-2022-47874, CVE-2022-47875, CVE-2022-47876, CVE-2022-47877, CVE-2022-47878, CVE-2022-4779, CVE-2022-4780
+
+- **2022-12-20:** Erstkontakt mit dem Hersteller über zwei Manager
+
+- **2022-12-27:** Kontakt mit dem Hersteller über eine öffentliche Mailadresse
+
+- **2023-01-11:** Zur Verfügungstellung eines verschlüsselten Kanals durch den Hersteller
+
+- **2023-01-18:** Meldung der Schwachstellendetails
+
+- **2023-04-28:** Veröffentlichung der Schwachstellendetails
+
+**CVE-2022-47879: Code Execution über RPC Interfaces**
+
+Eine Remote Code Execution (RCE) Schwachstelle in */be/rpc.php* und */be/erpc.php* in Jedox Cloud und Jedox 2020.2.5 erlaubt authentifizierten Benutzern, beliebige PHP-Klassen aus dem Verzeichnis *rtn* zu laden und deren Methoden auszuführen. Um diese Schwachstelle auszunutzen, benötigt der Angreifer Kenntnis über ladbare Klassen, ihre Methoden und Argumente.
+
+**CVE-2022-47875: Remote Code Execution über Directory Traversal**
+
+Eine Directory Traversal Schwachstelle in */be/erpc.php* in Jedox Cloud und Jedox 2020.2.5 erlaubt authentifizierten Benutzern die Ausführung von beliebigem Code. Um die Schwachstelle auszunutzen, benötigt ein Angreifer Berechtigungen Dateien hochzuladen.
+
+**CVE-2022-47877: Stored Cross-Site Scripting im Log-Modul**
+
+Eine Stord Cross-Site-Scripting-Schwachstelle in Jedox 2020.2.5 erlaubt es authentifizierten Benutzern, beliebige Skripte oder HTML in die Log-Seite über das Log-Modul einzuschleusen. Um die Schwachstelle auszunutzen, muss der Angreifer eine XSS-Payload an die Protokollnachricht anhängen.
+
+**CVE-2022-47878: Remote Code Execution über konfigurierbaren Storage Path**
+
+Eine fehlerhafte Eingabevalidierung zur Konfiguration des Storage Paths in Jedox 2020.2.5 erlaubt es authentifizierten Benutzern, den Speicherort als Web-Root-Verzeichnis anzugeben. Nachfolgende Datei-Uploads können zur Ausführung von beliebigem Code führen. Um die Schwachstelle auszunutzen, setzt der Angreifer den Standard-Speicherpfad auf das Web-Root des Webservers.
+
+**CVE-2022-47876: Remote Code Execution über ausführbare Groovy-Scripts**
+
+Integrator in Jedox 2020.2.5 erlaubt authentifizierten Benutzern, Jobs zu erstellen, um beliebigen Code über Groovy-Skripte auszuführen. Um die Sicherheitslücke auszunutzen, muss der Angreifer in der Lage sein, einen Groovy-Job in Integrator zu erstellen.
+
+**CVE-2022-47874: Offenbarung von Databankzugangsdaten aufgrund unzureichender Zugriffskontrollen**
+
+Unzureichende Zugriffskontrollen in */tc/rpc* in Jedox Cloud und Jedox 2020.2.5 ermöglichen es authentifizierten Benutzern, Details von Datenbankverbindungen über die Klasse *com.jedox.etl.mngr.Connections* und die Methode *getGlobalConnection* einzusehen. Um die Sicherheitslücke auszunutzen, muss der Angreifer den Namen der Datenbankverbindung kennen.
+
+**CVE-2022-47880: Offenlegung von Datenbankverbindungen über Verbindungstests**
+
+Eine Information Disclosure Schwachstelle in `/be/rpc.php` in Jedox Cloud und Jedox 2020.2.5 ermöglicht es authentifizierten Benutzern mit entsprechenden Berechtigungen, Datenbankverbindungen zu ändern, um die Zugangsdaten über die Funktion `test connection` offenzulegen. Um die Sicherheitslücke auszunutzen, muss der Angreifer den Host der Datenbankverbindung auf einen unter seiner Kontrolle stehenden Server setzen.
+
+## Microsoft Teams Status Disclosure
+
+Das "Status-Lämpchen" von MS-Teams ist ziemlich unscheinbar, verrät aber ganz schön viel über dich und deine Gewohnheiten. Wann du zu arbeiten beginnst und wann du aufhörst, ob du gerade mit deinen Kollegen auf Kaffeepause bist, dich in einem Meeting berieseln lässt oder selber gerade in diesem Augenblick präsentierst.
+
+Statusinformationen mögen in einer Organisation vielleicht ganz nützlich sein, standardmäßig können allerdings auch alle außerhalb deiner Organisation deinen Anwesenheitsstatus sehen. Uns ist aufgefallen, dass das bei vielen unserer Kontakte der Fall ist.
+
+## Behebung
+
+Wenn du das nicht möchtest, muss die Standardkonfiguration im Teams Admin Center angepasst werden. Doch eines vorweg: leider gibt es keine Möglichkeit, den Zugriff auf Statusinformationen für Externe vollständig zu deaktivieren.
+
+Du hast jedoch die folgenden Optionen den Zugriff zu verhindern, wenn auch mit Einschränkungen:
+
+Option 1) du aktivierst den Skype4Business Presence Privacy Mode. Diese Option schränkt den Zugriff auf Anwesenheitsinformationen auf Skype4Business- oder Teams-Kontakte auf deine persönliche Kontaktliste ein.
+
+Option 2) du blockierst alle externen Domänen. Damit können deine Kollegen außerhalb deiner Organisation niemanden suchen, mit ihm telefonieren, chatten oder Meetings führen. Der Austausch mit anderen ist dann nur noch über einen Gastzugriff möglich.
+
+Wenn ihr schon dabei seid MS-Teams zu härten, solltet ihr außerdem die Option deaktivieren, die es Personen erlaubt mit Skype-Usern zu kommunizieren.
+
+# Andere Lösungsvorschläge?
+
+Geht das besser? Habt ihr Feedback?
+
+[Schreibt uns!](../contact-us/)
+# Corporate Identity
+
+## Syslifters
+
+### We love Europe
+
+Wir sind ein europäisches Unternehmen und stolz auf unsere europäischen Wurzeln.
+
+Ihr auch? Wir stellen die folgenden EU-Badges unter **CC0** (Creative Commons Zero):\
+Ihr dürft sie frei nutzen, anpassen und weiterverbreiten, ohne Namensnennung.
+
+### Logos
+
+Farben der Logos dürfen sein:
+
+`#3facaf`
+
+`#1e1e1d`
+
+`#ffffff`
+
+### Colors
+
+`#366062`
+
+`#3facaf`
+
+`#9bd4db`
+
+`#daba17`
+
+`#eaca09`
+
+`#ffed7b`
+
+`#1e1e1d`
+
+`#4f4f4f`
+
+`#d6d6d6`
+
+`#ededed`
+
+### Font
+
+Finde unsere Font **Noto Sans** auf Google Fonts: <https://fonts.google.com/noto/specimen/Noto+Sans>
+
+## SysReptor
+
+### Logos
+
+### Dinos
+
+### Colors
+
+`#aabb11`
+
+`#818b06`
+
+`#1E1E1E`
+
+`#4f4f4f`
+
+`#f0f0f0`
+
+`#ffffff`
+
+## SysLeaks
+
+### Logos
+
+### Colors
+
+`#ff9234`
+
+`#e66b00`
+
+`#1E1E1E`
+
+`#4f4f4f`
+
+`#f0f0f0`
+
+`#ffffff`
+# Legal
+
+[Als PDF herunterladen](../assets/Syslifters_AGB.pdf)
+
+# Allgemeine Geschäftsbedingungen (AGB)
+
+## Allgemeine Grundlagen und Geltungsbereich
+
+1. Für sämtliche Rechtsgeschäfte zwischen dem Auftraggeber und dem Auftragnehmer (Unternehmensberater) – im Folgenden wird nur die Bezeichnung Auftragnehmer verwendet - gelten ausschließlich diese Allgemeinen Geschäftsbedingungen. Maßgeblich ist jeweils die zum Zeitpunkt des Vertragsabschlusses gültige Fassung.
+
+1. Auftraggeber kann nur ein Unternehmer im Sinne des § 1 des Österreichischen Konsumentenschutzgesetzes (KSchG) sein.
+
+1. Diese Allgemeinen Geschäftsbedingungen gelten auch für alle künftigen Vertragsbeziehungen, somit auch dann, wenn bei Zusatzverträgen darauf nicht ausdrücklich hingewiesen wird.
+
+1. Entgegenstehende Allgemeine Geschäftsbedingungen des Auftraggebers sind ungültig, es sei denn, diese werden vom Auftragnehmer ausdrücklich schriftlich anerkannt.
+
+1. Für den Fall, dass einzelne Bestimmungen dieser Allgemeinen Geschäftsbedingungen unwirksam sein und/oder werden sollten, berührt dies die Wirksamkeit der verbleibenden Bestimmungen und der unter ihrer Zugrundelegung geschlossenen Verträge nicht. Die unwirksame ist durch eine wirksame Bestimmung, die ihr dem Sinn und wirtschaftlichen Zweck nach am nächsten kommt, zu ersetzen.
+
+6.-13. entfällt
+
+## Aufklärungs- und Mitwirkungspflichten des Auftraggebers
+
+14. Der Leistungszeitraum wird im Einvernehmen zwischen Auftragnehmer und Auftraggeber vereinbart. Die Vorlaufzeit zwischen Zustandekommen des Vertrages und Beginn des Leistungszeitraums kann bis zu zwölf Wochen betragen.
+
+01. Der Auftraggeber sorgt dafür, dass dem Auftragnehmer auch ohne dessen besondere Aufforderung alle für die Erfüllung und Ausführung der Dienstleistung notwendigen Unterlagen, Zugänge, Benutzerkonten, Berechtigungen und Betriebsmittel spätestens drei Werktage vor Beginn der Dienstleistung vorgelegt werden.
+
+01. Der Auftraggeber sorgt dafür, dass die organisatorischen Rahmenbedingungen bei Erfüllung der Dienstleistung ein möglichst ungestörtes, dem raschen Fortgang des Dienstleistungsprozesses förderliches Arbeiten erlauben.
+
+01. Der Auftraggeber sorgt dafür, dass alle notwendigen Stellen (ggf. seine Mitarbeiter, die eingerichtete Arbeitnehmervertretung (Betriebsrat), etc.) bereits vor Beginn der Tätigkeit des Auftragnehmers von dieser informiert werden.
+
+## Geheimhaltung / Datenschutz
+
+18. Der Auftragnehmer verpflichtet sich zu unbedingtem Stillschweigen über alle ihm zur Kenntnis gelangenden geschäftlichen Angelegenheiten, insbesondere Geschäfts- und Betriebsgeheimnisse sowie jedwede Information, die er über Art, Betriebsumfang und praktische Tätigkeit des Auftraggebers erhält.
+
+01. Weiters verpflichtet sich der Auftragnehmer, über sämtliche Informationen und Umstände, die ihm im Zusammenhang mit der Erfüllung der beauftragten Dienstleistung zugegangen sind, Dritten gegenüber Stillschweigen zu bewahren.
+
+01. Der Auftragnehmer ist von der Schweigepflicht gegenüber allfälligen Gehilfen und Stellvertretern, denen er sich bedient, entbunden. Er hat die Schweigepflicht aber auf diese vollständig zu überbinden und haftet für deren Verstoß gegen die Verschwiegenheitsverpflichtung wie für einen eigenen Verstoß.
+
+01. Sollten im Zuge der Dienstleistung Sicherheitslücken in Komponenten (z. B. Software oder Hardware) von Drittanbietern identifiziert werden, ist der Auftragnehmer berechtigt, den Hersteller darüber zu informieren, CVE-(Common Vulnerabilities and Exposures-)Nummern zu beantragen und im Rahmen eines Responsible Disclosure-Prozesses zu veröffentlichen. Eine Veröffentlichung erfolgt unter Berücksichtigung des Behebungsstatus und Risikos des Auftraggebers.
+
+01. Die Schweigepflicht reicht unbegrenzt auch über das Ende dieses Vertragsverhältnisses hinaus. Ausnahmen bestehen im Falle gesetzlich vorgesehener Aussageverpflichtungen.
+
+01. Der Auftragnehmer ist berechtigt, ihm anvertraute personenbezogene Daten im Rahmen der Zweckbestimmung des Vertragsverhältnisses zu verarbeiten. Der Auftraggeber leistet dem Auftragnehmer Gewähr, dass hiefür sämtliche gesetzliche Maßnahmen getroffen worden sind.
+
+## Haftung / Schadenersatz
+
+24. entfällt
+
+01. Der Auftragnehmer haftet dem Auftraggeber für Schäden – ausgenommen für Personenschäden - nur im Falle groben Verschuldens (Vorsatz oder grobe Fahrlässigkeit). Dies gilt sinngemäß auch für Schäden, die auf vom Auftragnehmer beigezogene Dritte zurückgehen.
+
+01. Die Haftung für Folgeschäden, entgangenen Gewinn, ausgebliebene Einsparungen, sowie Schäden aus Ansprüchen Dritter ist ausgeschlossen. Der Auftraggeber hält den Auftragnehmer hinsichtlich sämtlicher von Dritter Seite erhobener Ansprüche in vollem Umfang schad- und klaglos.
+
+01. Schadenersatzansprüche des Auftraggebers können nur innerhalb von sechs Monaten ab Kenntnis von Schaden und Schädiger, spätestens aber innerhalb von drei Jahren nach dem anspruchsbegründenden Ereignis gerichtlich geltend gemacht werden.
+
+01. Der Auftraggeber hat jeweils den Beweis zu erbringen, dass der Schaden auf ein Verschulden des Auftragnehmers zurückzuführen ist.
+
+01. Sofern der Auftragnehmer die beauftragte Dienstleistung unter Zuhilfenahme Dritter erbringt und in diesem Zusammenhang Gewährleistungs- und/oder Haftungsansprüche gegenüber diesen Dritten entstehen, tritt der Auftragnehmer diese Ansprüche an den Auftraggeber ab. Der Auftraggeber wird sich in diesem Fall vorrangig an diese Dritten halten.
+
+## Leistungserbringung
+
+30.\\ entfällt
+
+31. Der Auftragnehmer ist bei der Erbringung der beauftragten Dienstleistung weisungsfrei, handelt nach eigenem Gutdünken und in eigener Verantwortung. Er ist an keinen bestimmten Arbeitsort und keine bestimmte Arbeitszeit gebunden.
+
+01. Muss die Leistungserbringung auf Verlangen des Auftraggebers außerhalb der gewöhnlichen Arbeitszeit (Arbeitstage Montag bis Freitag zwischen 08.00 und 18.00 Uhr MEZ) durchgeführt werden, so wird für Sonntage und Feiertage ein Zuschlag von 100%, für Samstage sowie montags bis freitags zwischen 18.00 und 08.00 Uhr MEZ ein Zuschlag von 50% in Rechnung gestellt.
+
+01. Wird die Leistung durch den Auftragnehmer in einer Betriebsstätte des Auftraggebers durchgeführt, so stellt der Auftraggeber kostenlos eine geeignete Arbeitsumgebung zur Verfügung. Diese Arbeitsumgebung umfasst eine dem Stand der Technik entsprechende Büroinfrastruktur inklusive Internetzugang und entspricht der jeweils lokal gültigen Arbeitsstättenverordnung.
+
+## Stellvertretung
+
+34. Der Auftragnehmer ist berechtigt, die ihm obliegenden Aufgaben ganz oder teilweise durch Dritte erbringen zu lassen. Die Bezahlung des Dritten erfolgt ausschließlich durch den Auftragnehmer selbst. Es entsteht kein wie immer geartetes direktes Vertragsverhältnis zwischen dem Dritten und dem Auftraggeber.
+
+## Honorar
+
+35. Dem Auftragnehmer steht für die von ihm erbrachten Leistungen (inklusive Reise- und Wartezeiten) ein Honorar gemäß der einzelvertraglichen Vereinbarung zwischen dem Auftraggeber und dem Auftragnehmer zu. Der Auftragnehmer ist berechtigt, dem Arbeitsfortschritt entsprechend Zwischenabrechnungen zu legen. Das Honorar ist 30 Tage ab Rechnungsdatum zur Zahlung fällig, soweit sich aus Rechnung oder Auftragsbestätigung kein anderes Zahlungsziel ergibt.
+
+01. Alle Zahlungen, die aus dem Vertrag heraus entstehen, werden in EURO geleistet.
+
+01. Bei Zahlungsverzug werden auch ohne Mahnung Verzugszinsen in der Höhe von 9%, sowie Mahnspesen in der Höhe von EURO 20,00 pro Mahnung fällig.
+
+01. Der Auftragnehmer wird jeweils eine Rechnung mit allen gesetzlich erforderlichen Merkmalen ausstellen.
+
+01. Anfallende Barauslagen, Spesen, Reisekosten, etc. sind gegen Rechnungslegung des Auftragnehmers vom Auftraggeber zusätzlich zu ersetzen.
+
+01. entfällt
+
+01. Dem Auftragnehmer steht es frei, kurzfristig (weniger als 14 Tage vor vereinbarter Durchführung) durch den Auftraggeber abgesagte oder verschobene Dienstleistungs-Projekte und/oder Dienstleistungs-Projektabschnitte pauschal mit 80% des veranschlagten Honorars zu verrechnen.
+
+## Elektronische Rechnungslegung
+
+42. Der Auftragnehmer ist berechtigt, dem Auftraggeber Rechnungen auch in elektronischer Form zu übermitteln. Der Auftraggeber erklärt sich mit der Zusendung von Rechnungen in elektronischer Form durch den Auftragnehmer ausdrücklich einverstanden.
+
+## Dauer des Vertrages
+
+43. entfällt
+
+01. Der Vertrag kann jederzeit aus wichtigen Gründen von jeder Seite ohne Einhaltung einer Kündigungsfrist gelöst werden. Als wichtiger Grund ist insbesondere anzusehen,
+
+- wenn eine Vertragspartei wesentliche Vertragsverpflichtungen verletzt, oder
+- wenn eine Vertragspartei in Zahlungsverzug gerät, oder
+- wenn berechtigte Bedenken hinsichtlich der Bonität einer Vertragspartei, über die kein Insolvenzverfahren eröffnet ist, bestehen und diese auf Begehren des Auftragnehmers weder Vorauszahlungen leistet noch vor Leistung des Auftragnehmers eine taugliche Sicherheit leistet und die schlechten Vermögensverhältnisse der anderen Vertragspartei bei Vertragsabschluss nicht bekannt waren.
+
+## Mediation
+
+45. Für den Fall von Streitigkeiten aus diesem Vertrag, die nicht einvernehmlich geregelt werden können, vereinbaren die Vertragsparteien einvernehmlich zur außergerichtlichen Beilegung des Konfliktes eingetragene Mediatoren (Österreichisches ZivMediatG) mit dem Schwerpunkt WirtschaftsMediation aus der Liste des Österreichischen Justizministeriums beizuziehen. Sollte über die Auswahl der WirtschaftsMediatoren oder inhaltlich kein Einvernehmen hergestellt werden können, werden frühestens ein Monat ab Scheitern der Verhandlungen rechtliche Schritte eingeleitet.
+
+01. Im Falle einer nicht zustande gekommenen oder abgebrochenen Mediation, gilt in einem allfällig eingeleiteten Gerichtsverfahren materielles österreichisches Recht unter Ausschluss der Verweisungsnormen des internationalen Privatrechts sowie des UN-Kaufrechts.
+
+01. Sämtliche aufgrund einer vorherigen Mediation angelaufenen notwendigen Aufwendungen, insbesondere auch jene für beigezogene Rechtsberater, können vereinbarungsgemäß in einem Gerichts- oder Schiedsgerichtsverfahren als „vorprozessuale Kosten“ geltend gemacht werden.
+
+## Schlussbestimmungen
+
+48. Die Vertragsparteien bestätigen, alle Angaben im Vertrag gewissenhaft und wahrheitsgetreu gemacht zu haben und verpflichten sich, allfällige Änderungen wechselseitig umgehend bekannt zu geben.
+
+01. Änderungen des Vertrages und dieser Allgemeinen Geschäftsbedingungen bedürfen der Schriftform; ebenso ein Abgehen von dieser Formerfordernis. Mündliche Nebenabreden bestehen nicht.
+
+01. Auf diesen Vertrag ist materielles österreichisches Recht unter Ausschluss der Verweisungsnormen des internationalen Privatrechts sowie des UN-Kaufrechts anwendbar. Erfüllungsort ist der Ort der beruflichen Niederlassung des Auftragnehmers. Für Streitigkeiten sind ausschließlich die Gerichte in Wien (Österreich) zuständig.
+
+**Stand:** 27. November 2023
+
+[Als PDF herunterladen](../assets/Syslifters_Servicebeschreibung.pdf)
+
+# Servicebeschreibung Penetration-Tests & Phishing-Simulationen
+
+## Allgemeine Grundlagen und Geltungsbereich
+
+1. Für sämtliche Rechtsgeschäfte im Zusammenhang mit Penetration-Tests und Phishing-Simulationen zwischen dem Auftraggeber und dem Auftragnehmer (Unternehmensberater) – im Folgenden wird nur die Bezeichnung Auftragnehmer verwendet - gilt ausschließlich diese Servicebeschreibung. Maßgeblich ist jeweils die zum Zeitpunkt des Vertragsabschlusses gültige Fassung.
+
+1. Auftraggeber kann nur ein Unternehmer im Sinne des § 1 des Österreichischen Konsumentenschutzgesetzes (KSchG) sein.
+
+1. Diese Servicebeschreibung gilt auch für alle künftigen Vertragsbeziehungen im Zusammenhang mit Penetration-Tests und Phishing-Simulationen, somit auch dann, wenn bei Zusatzverträgen darauf nicht ausdrücklich hingewiesen wird.
+
+1. Entgegenstehende Allgemeine Geschäftsbedingungen des Auftraggebers sind ungültig, es sei denn, diese werden vom Auftragnehmer ausdrücklich schriftlich anerkannt.
+
+1. Für den Fall, dass einzelne Bestimmungen dieser Servicebeschreibung unwirksam sein und/oder werden sollten, berührt dies die Wirksamkeit der verbleibenden Bestimmungen und der unter ihrer Zugrundelegung geschlossenen Verträge nicht. Die unwirksame ist durch eine wirksame Bestimmung, die ihr dem Sinn und wirtschaftlichen Zweck nach am nächsten kommt, zu ersetzen.
+
+## Ziel und Umfang von Penetration-Tests
+
+6. Das Ziel von Penetration-Tests ist die Identifizierung von technischen Risiken und Schwachstellen der Zielsysteme.
+
+1. Im Zuge der Durchführung von Penetration-Tests werden keine Maßnahmen durchgeführt, die die Nichtverfügbarkeit der Zielsysteme zum Zweck haben (Denial of Service, Distributed Denial of Service), es sei denn im Angebot ist explizit eine derartige Dienstleistung angeboten.
+
+1. Der Umfang des konkreten Penetration-Tests wird im Einzelfall vertraglich vereinbart und ist zeitlich limitiert (“Time Box”). Der Auftragnehmer sichert nicht zu, sämtliche vorhandene Sicherheitslücken auch tatsächlich aufzudecken. Dies ist bedingt durch die limitierten zeitlichen Ressourcen und den eingeschränkten Kenntnisstand der Penetration-Tester zu IT-Infrastruktur, Software, Quellcode, Benutzer, etc. Die Offenlegung von Systeminterna, die Bereitstellung von Test-Benutzern und die umfassende Kooperation des Auftraggebers mit dem Auftragnehmer erhöhen die Effizienz des Penetration-Tests.
+
+1. Der Auftraggeber stellt dem Auftragnehmer spätestens drei Werktage vor Beginn der Dienstleistung schriftlich (z. B. per E-Mail) die Liste der Zielsysteme (“Scope”; IP-Adressen, Domains, Subdomains, Standorte, E-Mail-Adressen, etc.) zur Verfügung. Mit der Übermittlung des Scopes geht die implizite Erlaubnis des Auftraggebers für die Durchführung intrusiver Penetration-Tests einher (“Permission to Attack”). Der Auftraggeber garantiert die Befugnis zu haben, die genannten Zielsysteme intrusiv attackieren zu lassen.
+
+## Ziel und Umfang von Phishing-Simulationen
+
+10. Das Ziel von Phishing-Simulationen ist die Schaffung und Erhebung des Security-Bewusstseins der seitens des Auftraggebers definierten Zielgruppe.
+
+01. Der Umfang und die genaue Ausgestaltung der Phishing-Simulation wird im Einvernehmen zwischen Auftraggeber und Auftragnehmer vereinbart.
+
+01. Der Auftraggeber stellt dem Auftragnehmer spätestens drei Werktage vor Beginn der Dienstleistung schriftlich (z. B. per E-Mail) die Liste der E-Mail-Adressen der Empfänger (“Scope”) zur Verfügung. Mit der Übermittlung des Scopes geht die implizite Erlaubnis des Auftraggebers für die Durchführung von Phishing-Simulationen einher (“Permission to Attack”). Der Auftraggeber garantiert die Befugnis zu haben, Phishing-Simulationen mit dem übermittelten Scope durchführen zu lassen.
+
+01. Der Auftraggeber sorgt dafür, dass sämtliche technische Maßnahmen zur Blockade unerwünschter E-Mails (SPAM-Schutz, Phishing-Prevention, Anti-Viren-Systeme, Mail-Security-Lösungen, etc) während des Durchführungszeitraums für die vonseiten des Auftraggebers zu nennenden Absenderadressen deaktiviert sind. Andernfalls kann die Zustellung der Phishing-Simulation an die Empfänger und damit die erfolgreiche Durchführung der Dienstleistung nicht gewährleistet werden.
+
+## Aufklärungs- und Mitwirkungspflichten des Auftraggebers
+
+14. Der Leistungszeitraum wird im Einvernehmen zwischen Auftragnehmer und Auftraggeber vereinbart. Die Vorlaufzeit zwischen Zustandekommen des Vertrages und Beginn des Leistungszeitraums kann bis zu zwölf Wochen betragen.
+
+01. Der Auftraggeber sorgt dafür, dass dem Auftragnehmer auch ohne dessen besondere Aufforderung alle für die Erfüllung und Ausführung der Dienstleistung notwendigen Unterlagen, Zugänge, Benutzerkonten, Berechtigungen und Betriebsmittel spätestens drei Werktage vor Beginn der Dienstleistung vorgelegt werden.
+
+01. Der Auftraggeber sorgt dafür, dass die organisatorischen Rahmenbedingungen bei Erfüllung der Dienstleistung ein möglichst ungestörtes, dem raschen Fortgang des Dienstleistungsprozesses förderliches Arbeiten erlauben.
+
+01. Der Auftraggeber sorgt dafür, dass alle notwendigen Stellen (ggf. seine Mitarbeiter, die eingerichtete Arbeitnehmervertretung (Betriebsrat), etc.) bereits vor Beginn der Tätigkeit des Auftragnehmers von dieser informiert werden.
+
+## Geheimhaltung / Datenschutz
+
+18. Der Auftragnehmer verpflichtet sich zu unbedingtem Stillschweigen über alle ihm zur Kenntnis gelangenden geschäftlichen Angelegenheiten, insbesondere Geschäfts- und Betriebsgeheimnisse sowie jedwede Information, die er über Art, Betriebsumfang und praktische Tätigkeit des Auftraggebers erhält.
+
+01. Weiters verpflichtet sich der Auftragnehmer, über sämtliche Informationen und Umstände, die ihm im Zusammenhang mit der Erfüllung der beauftragten Dienstleistung zugegangen sind, Dritten gegenüber Stillschweigen zu bewahren.
+
+01. Der Auftragnehmer ist von der Schweigepflicht gegenüber allfälligen Gehilfen und Stellvertretern, denen er sich bedient, entbunden. Er hat die Schweigepflicht aber auf diese vollständig zu überbinden und haftet für deren Verstoß gegen die Verschwiegenheitsverpflichtung wie für einen eigenen Verstoß.
+
+01. Sollten im Zuge der Dienstleistung Sicherheitslücken in Komponenten (z. B. Software oder Hardware) von Drittanbietern identifiziert werden, ist der Auftragnehmer berechtigt, den Hersteller darüber zu informieren, CVE-(Common Vulnerabilities and Exposures-)Nummern zu beantragen und im Rahmen eines Responsible Disclosure-Prozesses zu veröffentlichen. Eine Veröffentlichung erfolgt unter Berücksichtigung des Behebungsstatus und Risikos des Auftraggebers.
+
+01. Die Schweigepflicht reicht unbegrenzt auch über das Ende dieses Vertragsverhältnisses hinaus. Ausnahmen bestehen im Falle gesetzlich vorgesehener Aussageverpflichtungen.
+
+01. Der Auftragnehmer ist berechtigt, ihm anvertraute personenbezogene Daten im Rahmen der Zweckbestimmung des Vertragsverhältnisses zu verarbeiten. Der Auftraggeber leistet dem Auftragnehmer Gewähr, dass hiefür sämtliche gesetzliche Maßnahmen getroffen worden sind.
+
+## Haftung / Schadenersatz
+
+24. Die Durchführung von Penetration-Tests kann die Integrität und Verfügbarkeit der Zielsysteme und/oder verbundener Systeme beeinträchtigen. Der Auftraggeber sorgt dafür, dass die Integrität und Verfügbarkeit während der Durchführung der Penetration-Tests jederzeit wiederhergestellt werden können (z. B. über Datensicherungen, etc.). Der Auftragnehmer haftet nicht für Unterbrechungen, Ausfälle und/oder Datenverluste, auch wenn diese von ihm herbeigeführt wurden.
+
+01. Der Auftragnehmer haftet dem Auftraggeber für Schäden – ausgenommen für Personenschäden - nur im Falle groben Verschuldens (Vorsatz oder grobe Fahrlässigkeit). Dies gilt sinngemäß auch für Schäden, die auf vom Auftragnehmer beigezogene Dritte zurückgehen.
+
+01. Die Haftung für Folgeschäden, entgangenen Gewinn, ausgebliebene Einsparungen, sowie Schäden aus Ansprüchen Dritter ist ausgeschlossen. Der Auftraggeber hält den Auftragnehmer hinsichtlich sämtlicher von Dritter Seite erhobener Ansprüche in vollem Umfang schad- und klaglos.
+
+01. Schadenersatzansprüche des Auftraggebers können nur innerhalb von sechs Monaten ab Kenntnis von Schaden und Schädiger, spätestens aber innerhalb von drei Jahren nach dem anspruchsbegründenden Ereignis gerichtlich geltend gemacht werden.
+
+01. Der Auftraggeber hat jeweils den Beweis zu erbringen, dass der Schaden auf ein Verschulden des Auftragnehmers zurückzuführen ist.
+
+01. Sofern der Auftragnehmer die beauftragte Dienstleistung unter Zuhilfenahme Dritter erbringt und in diesem Zusammenhang Gewährleistungs- und/oder Haftungsansprüche gegenüber diesen Dritten entstehen, tritt der Auftragnehmer diese Ansprüche an den Auftraggeber ab. Der Auftraggeber wird sich in diesem Fall vorrangig an diese Dritten halten.
+
+## Berichterstattung
+
+30. Den Schlussbericht erhält der Auftraggeber spätestens vier Wochen nach Abschluss des Auftrages. Der Schlussbericht wird elektronisch in verschlüsselter Form übermittelt. Die zum Öffnen benötigten Zugangsdaten (z. B. Passwort) werden über einen zweiten Kanal (z. B. Signal Messenger, SMS) übermittelt.
+
+01. Der Auftragnehmer ist bei der Erbringung der beauftragten Dienstleistung weisungsfrei, handelt nach eigenem Gutdünken und in eigener Verantwortung. Er ist an keinen bestimmten Arbeitsort und keine bestimmte Arbeitszeit gebunden.
+
+01. Muss die Leistungserbringung auf Verlangen des Auftraggebers außerhalb der gewöhnlichen Arbeitszeit (Arbeitstage Montag bis Freitag zwischen 08.00 und 18.00 Uhr MEZ) durchgeführt werden, so wird für Sonntage und Feiertage ein Zuschlag von 100%, für Samstage sowie montags bis freitags zwischen 18.00 und 08.00 Uhr MEZ ein Zuschlag von 50% in Rechnung gestellt.
+
+01. Wird die Leistung durch den Auftragnehmer in einer Betriebsstätte des Auftraggebers durchgeführt, so stellt der Auftraggeber kostenlos eine geeignete Arbeitsumgebung zur Verfügung. Diese Arbeitsumgebung umfasst eine dem Stand der Technik entsprechende Büroinfrastruktur inklusive Internetzugang und entspricht der jeweils lokal gültigen Arbeitsstättenverordnung.
+
+## Stellvertretung
+
+34. Der Auftragnehmer ist berechtigt, die ihm obliegenden Aufgaben ganz oder teilweise durch Dritte erbringen zu lassen. Die Bezahlung des Dritten erfolgt ausschließlich durch den Auftragnehmer selbst. Es entsteht kein wie immer geartetes direktes Vertragsverhältnis zwischen dem Dritten und dem Auftraggeber.
+
+## Honorar
+
+35. Dem Auftragnehmer steht für die von ihm erbrachten Leistungen (inklusive Reise- und Wartezeiten) ein Honorar gemäß der einzelvertraglichen Vereinbarung zwischen dem Auftraggeber und dem Auftragnehmer zu. Der Auftragnehmer ist berechtigt, dem Arbeitsfortschritt entsprechend Zwischenabrechnungen zu legen. Das Honorar ist 30 Tage ab Rechnungsdatum zur Zahlung fällig, soweit sich aus Rechnung oder Auftragsbestätigung kein anderes Zahlungsziel ergibt.
+
+01. Alle Zahlungen, die aus dem Vertrag heraus entstehen, werden in EURO geleistet.
+
+01. Bei Zahlungsverzug werden auch ohne Mahnung Verzugszinsen in der Höhe von 9%, sowie Mahnspesen in der Höhe von EURO 20,00 pro Mahnung fällig.
+
+01. Der Auftragnehmer wird jeweils eine Rechnung mit allen gesetzlich erforderlichen Merkmalen ausstellen.
+
+01. Anfallende Barauslagen, Spesen, Reisekosten, etc. sind gegen Rechnungslegung des Auftragnehmers vom Auftraggeber zusätzlich zu ersetzen.
+
+01. Die Verrechnung der erbrachten Leistungen erfolgt nach tatsächlichem Aufwand.
+
+01. Dem Auftragnehmer steht es frei, kurzfristig (weniger als 14 Tage vor vereinbarter Durchführung) durch den Auftraggeber abgesagte oder verschobene Projekte und/oder Projektabschnitte pauschal mit 80% des veranschlagten Honorars zu verrechnen.
+
+## Elektronische Rechnungslegung
+
+42. Der Auftragnehmer ist berechtigt, dem Auftraggeber Rechnungen auch in elektronischer Form zu übermitteln. Der Auftraggeber erklärt sich mit der Zusendung von Rechnungen in elektronischer Form durch den Auftragnehmer ausdrücklich einverstanden.
+
+## Dauer des Vertrages
+
+43. Dieser Vertrag endet grundsätzlich mit dem Abschluss des Projekts und der entsprechenden Rechnungslegung.
+
+01. Der Vertrag kann dessen ungeachtet jederzeit aus wichtigen Gründen von jeder Seite ohne Einhaltung einer Kündigungsfrist gelöst werden. Als wichtiger Grund ist insbesondere anzusehen,
+
+- wenn eine Vertragspartei wesentliche Vertragsverpflichtungen verletzt, oder
+- wenn eine Vertragspartei in Zahlungsverzug gerät, oder
+- wenn berechtigte Bedenken hinsichtlich der Bonität einer Vertragspartei, über die kein Insolvenzverfahren eröffnet ist, bestehen und diese auf Begehren des Auftragnehmers weder Vorauszahlungen leistet noch vor Leistung des Auftragnehmers eine taugliche Sicherheit leistet und die schlechten Vermögensverhältnisse der anderen Vertragspartei bei Vertragsabschluss nicht bekannt waren.
+
+## Mediation
+
+45. Für den Fall von Streitigkeiten aus diesem Vertrag, die nicht einvernehmlich geregelt werden können, vereinbaren die Vertragsparteien einvernehmlich zur außergerichtlichen Beilegung des Konfliktes eingetragene Mediatoren (Österreichisches ZivMediatG) mit dem Schwerpunkt WirtschaftsMediation aus der Liste des Österreichischen Justizministeriums beizuziehen. Sollte über die Auswahl der WirtschaftsMediatoren oder inhaltlich kein Einvernehmen hergestellt werden können, werden frühestens ein Monat ab Scheitern der Verhandlungen rechtliche Schritte eingeleitet.
+
+01. Im Falle einer nicht zustande gekommenen oder abgebrochenen Mediation, gilt in einem allfällig eingeleiteten Gerichtsverfahren materielles österreichisches Recht unter Ausschluss der Verweisungsnormen des internationalen Privatrechts sowie des UN-Kaufrechts.
+
+01. Sämtliche aufgrund einer vorherigen Mediation angelaufenen notwendigen Aufwendungen, insbesondere auch jene für beigezogene Rechtsberater, können vereinbarungsgemäß in einem Gerichts- oder Schiedsgerichtsverfahren als „vorprozessuale Kosten“ geltend gemacht werden.
+
+## Schlussbestimmungen
+
+48. Die Vertragsparteien bestätigen, alle Angaben im Vertrag gewissenhaft und wahrheitsgetreu gemacht zu haben und verpflichten sich, allfällige Änderungen wechselseitig umgehend bekannt zu geben.
+
+01. Änderungen des Vertrages und dieser AGB bedürfen der Schriftform; ebenso ein Abgehen von dieser Formerfordernis. Mündliche Nebenabreden bestehen nicht.
+
+01. Auf diesen Vertrag ist materielles österreichisches Recht unter Ausschluss der Verweisungsnormen des internationalen Privatrechts sowie des UN-Kaufrechts anwendbar. Erfüllungsort ist der Ort der beruflichen Niederlassung des Auftragnehmers. Für Streitigkeiten sind ausschließlich die Gerichte in Wien (Österreich) zuständig.
+
+**Stand:** 27. November 2023
+
+# Unser Vesting-Vertrag
+
+Wir sind vier Gründer und haben als Holdings jeweils eine Ein-Personen-GmbH gegründet, die wiederum die Syslifters GmbH als gemeinsame Betriebs-GmbH gegründet haben (siehe auch [hier](../)).\
+Das Risiko, dass jemand nicht mehr mag und aussteigt gibt es natürlich. Dafür haben wir eine "Vesting-Vereinbarung" geschlossen.
+
+Wir haben uns dabei verpflichtet, zumindest drei Jahre dabeizubleiben und aktiv mitzuarbeiten. Wer früher aussteigt, verliert aliquot Geschäftsanteile.
+
+Unser Vesting-Vertrag
+
+Die Geschäftsanteile der EIGENTÜMER an der GESELLSCHAFT unterliegen einem Vesting. Stellt eine der NATÜRLICHEN PERSONEN ihre ganze Arbeitskraft im Ausmaß von mindestens 30 Wochenstunden (gerechnet auf den Jahresdurchschnitt des Wirtschaftsjahres) nicht mehr der GESELLSCHAFT uneingeschränkt zur Verfügung und ist die von ihr sonst ausgeübte Tätigkeit keine Tätigkeit im Interesse der GESELLSCHAFT, ist die GESELLSCHAFT berechtigt, die Geschäftsanteile des von ihr kontrollierten EIGENTÜMERs ganz oder teilweise gegen Rückzahlung der aliquoten Stammkapitaleinlage einzuziehen.
+
+Entsprechende Optionsvereinbarungen sollen insbesondere vorsehen: Der Anteil der der Einziehung unterliegenden Geschäftsanteile reduziert sich um 1/36 für jeden seit dem 01.05.2022 vollendeten Monat. Dementsprechend behalten die EIGENTÜMER jeweils 100 % ihrer Geschäftsanteile an der GESELLSCHAFT, sofern die aktive Tätigkeit der den EIGENTÜMER kontrollierenden NATÜRLICHEN PERSON für die GESELLSCHAFT jeweils mindestens bis zum 01.05.2025 aufrechterhalten wird. Im Falle eines Liquidationsereignisses vor dem 01.05.2025 gelten sämtliche Geschäftsanteile mit dem Wirksamwerden eines solchen Ereignisses als gevestet (Accelerated Vesting) mit der Folge, dass eine Einziehung danach nicht mehr möglich ist.
+
+# Datenschutzerklärung
+
+Der Schutz deiner persönlichen Daten ist uns bei Syslifters ein besonderes Anliegen. Wir verarbeiten deine Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informieren wir dich über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
+
+Diese Datenschutzerklärung gilt für docs.syslifters.com und ist ab 1. Juni 2022 gültig. ‍
+
+## Hosting
+
+Wir hosten die Website bei GitHub. Anbieter ist die GitHub B.V., Prins Bernhardplein 200, Amsterdam, 1097JB, Niederlande (nachfolgend: GitHub). Wenn du die Website besuchst, erfasst GitHub verschiedene Logfiles inklusive deiner IP-Adressen.
+
+Details entnehme bitte der [Datenschutzerklärung von GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+
+Die Verwendung von GitHub erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Wir haben ein berechtigtes Interesse an einer möglichst zuverlässigen Darstellung unserer Website. Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) umfasst. Die Einwilligung ist jederzeit widerrufbar. ‍
+
+## Deine Rechte
+
+Dir stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn du glaubst, dass die Verarbeitung deiner Daten gegen das Datenschutzrecht verstößt oder deiner datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, hast du das Recht eine Beschwerde bei der Aufsichtsbehörde einzureichen. In Österreich ist das die Datenschutzbehörde, E-Mail: [dsb@dsb.gv.at](mailto:dsb@dsb.gv.at), Web: <https://www.dsb.gv.at/>.
+
+## Änderungen dieser Datenschutzerklärung
+
+Wir behalten uns das Recht vor, unsere Datenschutzerklärung bei Bedarf zu ändern, falls dies zum Beispiel aufgrund technischer Entwicklungen oder rechtlicher Änderungen notwendig sein sollte. Die jeweils aktuellste Version der Datenschutzerklärung findest du auf unserer Webseite veröffentlicht. Bitte stelle sicher, dass dir die aktuellste Version vorliegt.
+
+Du erreichst uns unter folgenden Kontaktdaten:
+
+Syslifters GmbH\
+Eitzersthal 75, 2013 Göllersdorf\
+E-Mail: [hello@syslifters.com](mailto:hello@syslifters.com)\
+Telefon: +43 660 923 40 60
+
+‍**Stand:** 01. Juni 2022

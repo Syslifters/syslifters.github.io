@@ -1,0 +1,95 @@
+:root>* {
+  --md-code-hl-string-color: #eaca09;
+}
+
+[data-md-color-scheme="default"] {
+    /* Font */
+    --md-text-font: "Noto Sans";
+    --md-default-fg-color--light: #3facaf;
+
+    /* Primary color shades */
+    --md-primary-fg-color: #3facaf;
+    --md-primary-fg-color--light: #3facaf;
+    --md-primary-fg-color--dark: #3facaf;
+    --md-primary-bg-color: #FFFFFF;
+    --md-primary-bg-color--light: #FFFFFF;
+    --md-default-fg-color--light: #1E1E1EE6;
+
+    /* Accent color shades */
+    --md-accent-fg-color: #eaca09;
+    --md-accent-fg-color--transparent: #FFFFFF;
+    --md-accent-bg-color: #FFFFFF;
+    --md-accent-bg-color--light: #FFFFFF;
+  }
+
+  :root {
+    /* Font */
+    --md-text-font: "Noto Sans";
+    --md-default-fg-color--light: #1E1E1EE6;
+
+    /* Primary color shades */
+    --md-primary-fg-color: #3facaf;
+    --md-primary-fg-color--light: #3facaf;
+    --md-primary-fg-color--dark: #3facaf;
+    --md-primary-bg-color: #FFFFFF;
+    --md-primary-bg-color--light: #FFFFFF;
+    --md-default-fg-color--light: #1E1E1EE6;
+
+    /* Accent color shades */
+    --md-accent-fg-color: #eaca09;
+    --md-accent-fg-color--transparent: #FFFFFF;
+    --md-accent-bg-color: #FFFFFF;
+    --md-accent-bg-color--light: #FFFFFF;
+  }
+  
+  :root > * {
+    --md-typeset-a-color: #3facaf;
+    --md-text-link-color: #eaca09;
+
+    /* Code block color shades */
+    --md-code-bg-color: #FFFFFF;
+    --md-code-fg-color: #3facaf;
+
+    /* Footer */
+    --md-footer-bg-color: #3facaf;
+    --md-footer-bg-color--dark: #3facaf;
+    --md-footer-fg-color: #FFFFFF;
+    --md-footer-fg-color--light: #FFFFFF;
+    --md-footer-fg-color--lighter: #FFFFFF;
+  }
+
+  .md-footer {
+    margin-top: 3em;
+  }
+
+  .md-typeset__table {
+    min-width: 100%;
+  }
+  .md-typeset table:not([class]) {
+    display: table;
+  }
+  .md-typeset table:not([class]) th {
+    min-width: 1rem;
+  }
+
+  .md-typeset h1,
+  .md-typeset h2 {
+    font-weight: 400;
+  }
+
+  .md-typeset .md-button {
+    color: #1E1E1EE6
+  }
+
+  .md-nav__link:not(.md-nav__container):focus {
+    color: unset;
+  }
+  .md-nav__link:not(.md-nav__container):hover {
+    color: var(--md-accent-fg-color);
+  }
+
+  @media print {
+    .no-print {
+        display:none !important;
+      }
+  }
